@@ -57,6 +57,9 @@ body {
     justify-content: space-between;
     padding: 1% 0 0 10%;
 }
+.container-input p {
+    margin: -10px;
+}
 
 .container-input .input {
     width: 400px;
